@@ -36,9 +36,12 @@ public class Day17{
                         }
                     }
                     for (int i = 0; i < 2022; i++){
+                        
                         while (stillMove){
                             //
+                            stillMove = false;
                         }
+                        break;
                     }
 
                     
